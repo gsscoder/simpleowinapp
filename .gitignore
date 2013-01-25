@@ -1,0 +1,10 @@
+src/SimpleOwinApp/bin/*
+src/SimpleOwinApp/obj
+*.suo
+*.userprefs
+*~
+*.pidb
+*.test-cache
+*.DS_Store
+*.csproj.user
+TestResult.xml
