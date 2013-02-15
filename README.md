@@ -15,6 +15,10 @@ Blog Article:
 ---
 - [Make your path through OWIN with Flux](http://gsscoder.blogspot.it/2013/02/make-your-path-through-owin-with-flux.html)
 
+Other Resources:
+---
+- This app runned by [OwinHttpListener](https://github.com/gsscoder/owinhttplistener), here the [Gist](https://gist.github.com/gsscoder/4960277).
+
 Contacts:
 ---
 Giacomo Stelluti Scala
